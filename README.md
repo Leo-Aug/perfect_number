@@ -8,6 +8,6 @@
 
 最后输出!(sum - input)，若相等，返回1，不相等，返回0。
 ## 文件结构：
-perfect_number_decide.c:函数主题。
+perfect_number_decide.c:函数主体。
 
 main.c:测试函数。
